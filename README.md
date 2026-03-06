@@ -12,7 +12,7 @@
 
 ### Especificaciones del Sistema
 * **Versión de Python:** 3.14.3
-* **Librerías principales:**
+* **Librerías :**
   * Flet 0.81.0
   * anyio 4.12.1
   * httpx 0.28.1
