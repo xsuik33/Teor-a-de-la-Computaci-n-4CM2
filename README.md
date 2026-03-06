@@ -1,5 +1,9 @@
 # Teor-a-de-la-Computaci-n-4CM2
 PRACTICAS
+Hecho por: 
+  ° Gonzalez Ortiz Iker Saul
+  ° Romero Martínez Diego Enrique
+  ° Barrera Guerrero José Emanuel
 Version = Python 3.14.3
 Librerias{
 ﻿anyio==4.12.1
