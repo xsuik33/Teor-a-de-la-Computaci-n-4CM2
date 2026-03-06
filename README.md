@@ -20,7 +20,7 @@ six==1.17.0
 
 Este programa permite calcular la Cerradura de Kleene ($V^*$) y la Cerradura Positiva ($V^+$) de un conjunto de cadenas, además de verificar subcadenas.
 
-## 🚀 Instrucciones de Uso
+## Instrucciones de Uso
 
 ### 1. Clonar o descargar el proyecto
 Descarga los archivos `Practica1TeoCom.py` y `requirements.txt` en una carpeta local.
