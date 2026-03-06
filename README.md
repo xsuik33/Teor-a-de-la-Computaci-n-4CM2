@@ -29,3 +29,5 @@ Descarga los archivos `Practica1TeoCom.py` y `requirements.txt` en una carpeta l
 Abre una terminal en la carpeta del proyecto y ejecuta:
 ```bash
 python -m venv venv
+### 3. Instalar Dependencias
+pip install -r requirements.txt
