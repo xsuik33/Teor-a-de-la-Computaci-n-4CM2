@@ -15,3 +15,17 @@ oauthlib==3.3.1
 repath==0.9.0
 six==1.17.0
 }
+
+# Ejercicio 1: Cerraduras y Subcadenas (Flet)
+
+Este programa permite calcular la Cerradura de Kleene ($V^*$) y la Cerradura Positiva ($V^+$) de un conjunto de cadenas, además de verificar subcadenas.
+
+## 🚀 Instrucciones de Uso
+
+### 1. Clonar o descargar el proyecto
+Descarga los archivos `Practica1TeoCom.py` y `requirements.txt` en una carpeta local.
+
+### 2. Configurar el entorno virtual (Recomendado)
+Abre una terminal en la carpeta del proyecto y ejecuta:
+```bash
+python -m venv venv
