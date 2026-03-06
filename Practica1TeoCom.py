@@ -4,9 +4,6 @@ Ejercicio 1: Subcadenas/Prefijos/Sufijos + Cerradura de Kleene/Positiva
 
 Requisitos:
     pip install flet
-
-Ejecución:
-    python lenguajes_formales.py
 """
 
 import flet as ft
@@ -619,4 +616,5 @@ def main(page: ft.Page):
 
 
 if __name__ == "__main__":
+
     ft.app(target=main)
